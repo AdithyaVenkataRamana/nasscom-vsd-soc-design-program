@@ -1,6 +1,6 @@
 # nasscom-vsd-soc-design-program
 
-#Theory
+**Theory**
 This project focuses on the integration of a standard cell design with the PicoRV32, a RISC-V CPU core using the SkyWater PDK (Process Design Kit). The PicoRV32 is a compact processor that uses the RISC-V instruction set, an open standard for efficient CPU design. Our goal is to integrate this CPU core into the chip design, connecting input/output (I/O) pads, general-purpose input/output (GPIO) pins, and power lines for appropriate use Design Following the Skywater PDK guidelines will do, providing open-source resources for building the chip.
 
 ![Screenshot 2024-10-15 205811](https://github.com/user-attachments/assets/c9d3c1bc-4360-44bf-b1a7-f946bc402763)
@@ -10,7 +10,7 @@ A die is like a tiny computer part that holds the circuits of a chip. Inside the
 IPs are special, pre-designed parts that perform specific functions within the chip. They are like building blocks that were designed with a lot of thought and effort.
 
 
-The below given picture represents the processes and resources required for Digital ASIC Design
+**The below given picture represents the processes and resources required for Digital ASIC Design**
 
 ![Screenshot 2024-10-15 212216](https://github.com/user-attachments/assets/5dc186f5-9bab-4d31-8f33-2728b9f778c6)
 
@@ -30,7 +30,7 @@ Open-Source Resources: These are websites and repositories that provide free and
 
 
 
-LABS:
+**LABS:**
 Day1:
 
 1.Openlane is opened and design preparation is started
