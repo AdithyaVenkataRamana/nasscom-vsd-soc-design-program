@@ -12,6 +12,9 @@ IPs are special, pre-designed parts that perform specific functions within the c
 
 The below given picture represents the processes and resources required for Digital ASIC Design
 
+![Screenshot 2024-10-15 212216](https://github.com/user-attachments/assets/5dc186f5-9bab-4d31-8f33-2728b9f778c6)
+
+
 EDA Tools: These are software programs used to design and simulate the ASIC.
 RTL (Register Transfer Level) Designs: The initial descriptions of the ASIC's functionality.
 PDK (Process Design Kit): This contains information about the manufacturing process used to create the ASIC.
