@@ -35,6 +35,8 @@ Day1:
 
 Openlane is opened and design preparation is started
 
+![1](https://github.com/user-attachments/assets/b9c46549-d30f-49c3-9460-2d9f99d64e68)
+
 
 Synthesis operation in Openlane
 
