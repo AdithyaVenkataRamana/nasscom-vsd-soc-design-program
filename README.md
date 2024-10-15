@@ -1,6 +1,6 @@
 # nasscom-vsd-soc-design-program
 
-Theory
+#Theory
 This project focuses on the integration of a standard cell design with the PicoRV32, a RISC-V CPU core using the SkyWater PDK (Process Design Kit). The PicoRV32 is a compact processor that uses the RISC-V instruction set, an open standard for efficient CPU design. Our goal is to integrate this CPU core into the chip design, connecting input/output (I/O) pads, general-purpose input/output (GPIO) pins, and power lines for appropriate use Design Following the Skywater PDK guidelines will do, providing open-source resources for building the chip.
 
 ![Screenshot 2024-10-15 205811](https://github.com/user-attachments/assets/c9d3c1bc-4360-44bf-b1a7-f946bc402763)
