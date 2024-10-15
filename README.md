@@ -43,6 +43,8 @@ Synthesis operation in Openlane
 
 
 Number of Cells Synthesised:
+![3](https://github.com/user-attachments/assets/4351a96e-b17b-46da-9998-deb0d67b6b32)
+
 
 Number of cells = 14876
 
