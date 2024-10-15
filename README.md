@@ -1,6 +1,6 @@
 # nasscom-vsd-soc-design-program
 
-**THEORY**
+**Theory**
 
 
 
@@ -14,6 +14,8 @@ IPs are special, pre-designed parts that perform specific functions within the c
 
 
 **The below given picture represents the processes and resources required for Digital ASIC Design**
+
+
 
 ![Screenshot 2024-10-15 212216](https://github.com/user-attachments/assets/5dc186f5-9bab-4d31-8f33-2728b9f778c6)
 
@@ -34,7 +36,9 @@ Open-Source Resources: These are websites and repositories that provide free and
 
 
 **LABS:**
-Day1:
+
+
+**Day1:**
 
 1.Openlane is opened and design preparation is started
 
