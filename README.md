@@ -2,7 +2,8 @@
 
 Theory
 This project focuses on the integration of a standard cell design with the PicoRV32, a RISC-V CPU core using the SkyWater PDK (Process Design Kit). The PicoRV32 is a compact processor that uses the RISC-V instruction set, an open standard for efficient CPU design. Our goal is to integrate this CPU core into the chip design, connecting input/output (I/O) pads, general-purpose input/output (GPIO) pins, and power lines for appropriate use Design Following the Skywater PDK guidelines will do, providing open-source resources for building the chip.
- ![Uploading Screenshot 2024-10-15 205811.png…]()
+
+![Screenshot 2024-10-15 205811](https://github.com/user-attachments/assets/c9d3c1bc-4360-44bf-b1a7-f946bc402763)
 
 
 A die is like a tiny computer part that holds the circuits of a chip. Inside the core area, there are different sections where the chip's components are placed. Around this core, there are input/output (I/O) pads that help the chip communicate with other devices. This area doesn't have any actual logic circuits.
