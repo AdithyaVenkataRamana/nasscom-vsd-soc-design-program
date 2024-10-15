@@ -33,22 +33,24 @@ Open-Source Resources: These are websites and repositories that provide free and
 LABS:
 Day1:
 
-Openlane is opened and design preparation is started
+1.Openlane is opened and design preparation is started
 
 ![1](https://github.com/user-attachments/assets/b9c46549-d30f-49c3-9460-2d9f99d64e68)
 
 
-Synthesis operation in Openlane
+2.Synthesis operation in Openlane
 ![2](https://github.com/user-attachments/assets/0b20d3cd-b600-4bde-9afd-15fa30a31756)
 
 
-Number of Cells Synthesised:
+3.Number of Cells Synthesised:
 ![3](https://github.com/user-attachments/assets/4351a96e-b17b-46da-9998-deb0d67b6b32)
 
 
 Number of cells = 14876
 
 4.Number of D Flip Flops:
+![4](https://github.com/user-attachments/assets/efedea68-919c-4762-aad8-d487b871e6b5)
+
 
 Number of D Flip Flops = 1613
 
