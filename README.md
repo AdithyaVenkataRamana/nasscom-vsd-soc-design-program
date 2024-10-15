@@ -39,6 +39,8 @@ Openlane is opened and design preparation is started
 
 
 Synthesis operation in Openlane
+![2](https://github.com/user-attachments/assets/0b20d3cd-b600-4bde-9afd-15fa30a31756)
+
 
 Number of Cells Synthesised:
 
